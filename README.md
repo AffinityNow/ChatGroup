@@ -29,7 +29,7 @@ Click on the links below to download owr fun App 😄
 
 ### Authors
 * **Chakir Ardenne** - *Master 1 Devops project* - [Github Account](https://github.com/ChakirArdenne)
-* **Avi Assayag** - *Master 1 Devops project* - [Github Account](https://github.com/aviassayag)
+* **Avi Assayag** - *Master 1 Devops project* - [Github Account](https://github.com/AssayagAvi)
 * **Erwyn Ramin** - *Master 1 Devops project* - [Github Account](https://github.com/Ramin-Erwyn)
 * **Ahlem Fantazi** - *Master 1 Devops project* - [Github Account](https://github.com/AhlemFANTA)
 
