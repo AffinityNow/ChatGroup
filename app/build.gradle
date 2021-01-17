@@ -1,6 +1,32 @@
 plugins {
     id 'com.android.application'
+
+    //SonarCloud
+    id "org.sonarqube" version "3.0"
+
+    //CodeCov
+    id 'jacoco'
 }
+
+group ='com.affinitynow'
+version '0.1'
+
+// plugin to get the version of the project
+// from https://stackoverflow.com/questions/13198358/how-to-get-project-version-in-custom-gradle-plugin
+// uses version in build.gradle file
+class VersionPlugin implements Plugin<Project> {
+    public void apply(Project project) {
+        project.task('version') {
+            project.gradle.projectsEvaluated {
+                println "$project.version"
+            }
+        }
+    }
+}
+
+apply plugin: 'org.sonarqube'
+apply plugin: 'jacoco'
+apply plugin: VersionPlugin
 
 android {
     compileSdkVersion 30
@@ -29,11 +55,25 @@ android {
 }
 
 dependencies {
-
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'com.google.android.material:material:1.1.0'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+}
+
+sonarqube {
+    properties {
+        property "sonar.projectKey", "AffinityNow_AffinityNow"
+        property "sonar.organization", "smartmapperproject"
+        property "sonar.host.url", "https://sonarcloud.io"
+    }
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled = true
+        html.enabled = false
+    }
 }
