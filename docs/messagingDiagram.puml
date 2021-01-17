@@ -26,30 +26,50 @@ package  AffinityNow{
         }
     }
     package models{
-        class MessageWrapper implements IMessage {
+        class MessageWrapper #LightGreen implements IMessage {
             -message:MessageWrapper
             +this(messge:TextMessage):MessageWrapper
         }
 
-        class UserWrapper implements IUser{
+        class UserWrapper #LightGreen implements IUser{
             -user:UserWrapper
             +this(user:User):UserWrapper
         }
-
     }
-    package main  #yellow {
-        class MainActivity extends AppCompatActivity{
+    package adapters  {
+        class GroupsAdapter #LightGreen{
+        - final List<Group> groups
+        - final Context context
+        + this(groups:List<Group>, context:Context): GroupsAdapter
+        }
+    }
+
+    package main {
+        class MainActivity #LightGreen extends AppCompatActivity{
             -usernameEditText:EditText
             -loginButton:Button
             -initCometChat() :void
             -loginWithCometChat(username:String) :void
             -redirectToNextScreen() :void
         }
-        class GroupChatActivity extends AppCompatActivity {}
-        class GroupListActivity extends AppCompatActivity{ }
+        class GroupListActivity #LightGreen extends AppCompatActivity{
+            -groupsRecyclerView:RecyclerView
+            -getGroups():void
+            -updateList():void
+        }
+        class GroupChatActivity #LightGreen extends AppCompatActivity {
+            #adapter:MessagesListAdapter<MessageWrapper>
+            -messageInput: MessageInput
+            -messagesList: MessagesList
+            -groupId: String
+            -listenerID:String
+            -getPreviousMessages():void
+        }
+
     }
 
     Constants ->com.cometchat.pro : uses
+    GroupListActivity--GroupsAdapter
 }
 
 @enduml
