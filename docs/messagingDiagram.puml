@@ -1,0 +1,55 @@
+@startuml classdiagram
+!include style/commons.style
+
+package  AffinityNow{
+
+    package androidx.appcompat.app #yellow{
+         class AppCompatActivity {}
+    }
+    package java.io #yellow{
+        interface Serializable {}
+    }
+     package com.cometchat.pro #pink{
+        class AppSettings implements Serializable {}
+    }
+    package chatkit #pink {
+        interface IMessage {}
+        interface IUser {}
+    }
+
+    package utils  {
+        class Constants #LightGreen{
+        +COMET_CHAT_APP_ID <static> final :String;
+        +COMET_CHAT_API_KEY <static> final:String
+        +region <static> :String
+        +GROUP_ID <static> final:String
+        }
+    }
+    package models{
+        class MessageWrapper implements IMessage {
+            -message:MessageWrapper
+            +this(messge:TextMessage):MessageWrapper
+        }
+
+        class UserWrapper implements IUser{
+            -user:UserWrapper
+            +this(user:User):UserWrapper
+        }
+
+    }
+    package main  #yellow {
+        class MainActivity extends AppCompatActivity{
+            -usernameEditText:EditText
+            -loginButton:Button
+            -initCometChat() :void
+            -loginWithCometChat(username:String) :void
+            -redirectToNextScreen() :void
+        }
+        class GroupChatActivity extends AppCompatActivity {}
+        class GroupListActivity extends AppCompatActivity{ }
+    }
+
+    Constants ->com.cometchat.pro : uses
+}
+
+@enduml
