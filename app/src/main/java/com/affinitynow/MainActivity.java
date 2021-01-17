@@ -2,9 +2,11 @@ package com.affinitynow;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
+import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
@@ -20,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getSimpleName();
     private EditText usernameEditText;
     private Button loginButton;
+    private Button matchButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +34,15 @@ public class MainActivity extends AppCompatActivity {
         usernameEditText = findViewById(R.id.usernameEditText);
         loginButton = findViewById(R.id.loginButton);
         loginButton.setOnClickListener(v -> attemptLogin());
+
+        matchButton = findViewById(R.id.matchButton);
+        matchButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+               Intent activityChangeIntent = new Intent(MainActivity.this, MatchActivity.class);
+               MainActivity.this.startActivity(activityChangeIntent);
+            }
+        });
     }
 
     private void attemptLogin() {
