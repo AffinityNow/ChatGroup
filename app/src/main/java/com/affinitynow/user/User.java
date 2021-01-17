@@ -25,4 +25,12 @@ public class User {
     public void setTopics(Map<String, Topic> topics) {
         this.topics = topics;
     }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "userName='" + userName + '\'' +
+                ", topics=" + topics +
+                '}';
+    }
 }
