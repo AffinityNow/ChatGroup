@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1451.25px" preserveAspectRatio="none" style="width:4716px;height:1451px;" version="1.1" viewBox="0 0 4716 1451" width="4716px" zoomAndPan="magnify"><defs/><g><!--MD5=[aaeb040f648845164a7d0454fbf4f69a]
+cluster AffinityNow--><polygon fill="#FFFFFF" points="36,13.5,225,13.5,240.75,66.6211,4677.75,66.6211,4677.75,1435.5,36,1435.5,36,13.5" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="36" x2="240.75" y1="66.6211" y2="66.6211"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="175.5" x="45" y="50.6997">AffinityNow</text><!--MD5=[5a11439e6a9c928fb0d5ec822813d7c6]
+cluster androidx.appcompat.app--><polygon fill="#FFFF00" points="3372.75,112.5,3775.5,112.5,3791.25,165.6211,3798,165.6211,3798,346.5,3372.75,346.5,3372.75,112.5" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="3372.75" x2="3791.25" y1="165.6211" y2="165.6211"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="389.25" x="3381.75" y="149.6997">androidx.appcompat.app</text><!--MD5=[0d852700fdad35b7061d461d6907a324]
+cluster java.io--><polygon fill="#FFFF00" points="2234.25,112.5,2351.25,112.5,2367,165.6211,2531.25,165.6211,2531.25,346.5,2234.25,346.5,2234.25,112.5" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="2234.25" x2="2367" y1="165.6211" y2="165.6211"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="103.5" x="2243.25" y="149.6997">java.io</text><!--MD5=[e8bdf07041438fa7a254c602cff7421d]
+cluster com.cometchat.pro--><polygon fill="#FFC0CB" points="2085.75,565.875,2400.75,565.875,2416.5,618.9961,2547,618.9961,2547,835.875,2085.75,835.875,2085.75,565.875" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="2085.75" x2="2416.5" y1="618.9961" y2="618.9961"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="301.5" x="2094.75" y="603.0747">com.cometchat.pro</text><!--MD5=[9a3391d1c80018282b10796a009167b1]
+cluster chatkit--><polygon fill="#FFC0CB" points="1062,112.5,1181.25,112.5,1197,165.6211,1635.75,165.6211,1635.75,346.5,1062,346.5,1062,112.5" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="1062" x2="1197" y1="165.6211" y2="165.6211"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="105.75" x="1071" y="149.6997">chatkit</text><!--MD5=[c52f45833d539af9e29a9d34b8b7302b]
+cluster utils--><polygon fill="#FFFFFF" points="90,513,171,513,186.75,566.1211,702,566.1211,702,888.75,90,888.75,90,513" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="90" x2="186.75" y1="566.1211" y2="566.1211"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="67.5" x="99" y="550.1997">utils</text><!--MD5=[a60570e4b426f702ccbb0d459e3b9417]
+cluster models--><polygon fill="#FFFFFF" points="798.75,534.375,927,534.375,942.75,587.4961,1971,587.4961,1971,867.375,798.75,867.375,798.75,534.375" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="798.75" x2="942.75" y1="587.4961" y2="587.4961"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="114.75" x="807.75" y="571.5747">models</text><!--MD5=[9c14d2b3f5a3d1b21c4328ffa36dd063]
+cluster adapters--><polygon fill="#FFFFFF" points="3199.5,1017,3352.5,1017,3368.25,1070.1211,3969,1070.1211,3969,1381.5,3199.5,1381.5,3199.5,1017" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="3199.5" x2="3368.25" y1="1070.1211" y2="1070.1211"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="139.5" x="3208.5" y="1054.1997">adapters</text><!--MD5=[a70b0d373322012744ecc119c63f921b]
+cluster main--><polygon fill="#FFFFFF" points="2625.75,472.5,2713.5,472.5,2729.25,525.6211,4623.75,525.6211,4623.75,929.25,2625.75,929.25,2625.75,472.5" style="stroke:#000000;stroke-width:3.375;"/><line style="stroke:#000000;stroke-width:3.375;" x1="2625.75" x2="2729.25" y1="525.6211" y2="525.6211"/><text fill="#000000" font-family="sans-serif" font-size="31.5" font-weight="bold" lengthAdjust="spacing" textLength="74.25" x="2634.75" y="509.6997">main</text><!--MD5=[5839a728ddc01d792fb5317e858e9ae0]
+class AppCompatActivity--><rect codeLine="6" fill="#F8F8FF" height="72" id="AppCompatActivity" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="297" x="3435.75" y="238.5"/><ellipse cx="3469.5" cy="274.5" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M3474,266.625 Q3474.457,265.5 3474.9844,264.9375 Q3475.5117,264.375 3476.1094,264.375 Q3477.1641,264.375 3477.832,265.0078 Q3478.5,265.6406 3478.5,267.1172 L3478.5,270.6328 Q3478.5,272.1094 3477.8672,272.7422 Q3477.2344,273.375 3476.25,273.375 Q3475.3711,273.375 3474.8086,272.9883 Q3474.2461,272.6016 3474,271.582 Q3473.8945,270.8789 3473.5078,270.4922 Q3472.8047,269.7539 3471.5391,269.332 Q3470.2734,268.875 3469.0078,268.875 Q3467.4258,268.875 3466.0898,269.5078 Q3464.7891,270.1406 3463.7695,271.5469 Q3462.75,272.9531 3462.75,274.8867 L3462.75,276.9609 Q3462.75,279.2813 3464.6484,280.8281 Q3466.5469,282.375 3469.9219,282.375 Q3471.9258,282.375 3473.332,281.918 Q3474.1406,281.6719 3475.0547,280.8633 Q3475.6523,280.4063 3475.9688,280.2656 Q3476.2852,280.125 3476.6719,280.125 Q3477.4102,280.125 3477.9375,280.7227 Q3478.5,281.2852 3478.5,282.0938 Q3478.5,282.8672 3477.7266,283.7813 Q3476.6016,285.1172 3474.8086,285.8555 Q3472.4531,286.875 3469.5703,286.875 Q3466.1953,286.875 3463.4883,285.5391 Q3461.3086,284.4844 3459.7617,282.1992 Q3458.25,279.9141 3458.25,277.207 L3458.25,274.7461 Q3458.25,271.9336 3459.5859,269.4727 Q3460.957,267.0117 3463.3125,265.7109 Q3465.7031,264.375 3468.375,264.375 Q3469.9922,264.375 3471.3984,264.9375 Q3472.8047,265.5 3474,266.625 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="225" x="3501" y="285.5479">AppCompatActivity</text><!--MD5=[cc3de0a176daa3c4ec875deafdf5ddd1]
+class Serializable--><rect codeLine="9" fill="#F8F8FF" height="72" id="Serializable" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="222.75" x="2271.375" y="238.5"/><ellipse cx="2305.125" cy="274.5" fill="#B4A7E5" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M2307.375,267.75 L2307.375,281.25 L2311.875,281.25 L2312.9648,281.25 L2314.125,282.6563 L2314.125,283.5 L2314.125,284.3438 L2312.9648,285.75 L2311.875,285.75 L2298.375,285.75 L2297.2852,285.75 L2296.125,284.3438 L2296.125,283.5 L2296.125,282.6563 L2297.2852,281.25 L2298.375,281.25 L2302.875,281.25 L2302.875,267.75 L2298.375,267.75 L2297.2852,267.75 L2296.125,266.3438 L2296.125,265.5 L2296.125,264.6563 L2297.2852,263.25 L2298.375,263.25 L2311.875,263.25 L2312.9648,263.25 L2314.125,264.6563 L2314.125,265.5 L2314.125,266.3438 L2312.9648,267.75 L2311.875,267.75 L2307.375,267.75 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" font-style="italic" lengthAdjust="spacing" textLength="150.75" x="2336.625" y="285.5479">Serializable</text><!--MD5=[b8e4c95865208c934bfcfda4f90bf50c]
+class AppSettings--><rect codeLine="12" fill="#F8F8FF" height="72" id="AppSettings" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="220.5" x="2272.5" y="709.875"/><ellipse cx="2306.25" cy="745.875" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M2310.75,738 Q2311.207,736.875 2311.7344,736.3125 Q2312.2617,735.75 2312.8594,735.75 Q2313.9141,735.75 2314.582,736.3828 Q2315.25,737.0156 2315.25,738.4922 L2315.25,742.0078 Q2315.25,743.4844 2314.6172,744.1172 Q2313.9844,744.75 2313,744.75 Q2312.1211,744.75 2311.5586,744.3633 Q2310.9961,743.9766 2310.75,742.957 Q2310.6445,742.2539 2310.2578,741.8672 Q2309.5547,741.1289 2308.2891,740.707 Q2307.0234,740.25 2305.7578,740.25 Q2304.1758,740.25 2302.8398,740.8828 Q2301.5391,741.5156 2300.5195,742.9219 Q2299.5,744.3281 2299.5,746.2617 L2299.5,748.3359 Q2299.5,750.6563 2301.3984,752.2031 Q2303.2969,753.75 2306.6719,753.75 Q2308.6758,753.75 2310.082,753.293 Q2310.8906,753.0469 2311.8047,752.2383 Q2312.4023,751.7813 2312.7188,751.6406 Q2313.0352,751.5 2313.4219,751.5 Q2314.1602,751.5 2314.6875,752.0977 Q2315.25,752.6602 2315.25,753.4688 Q2315.25,754.2422 2314.4766,755.1563 Q2313.3516,756.4922 2311.5586,757.2305 Q2309.2031,758.25 2306.3203,758.25 Q2302.9453,758.25 2300.2383,756.9141 Q2298.0586,755.8594 2296.5117,753.5742 Q2295,751.2891 2295,748.582 L2295,746.1211 Q2295,743.3086 2296.3359,740.8477 Q2297.707,738.3867 2300.0625,737.0859 Q2302.4531,735.75 2305.125,735.75 Q2306.7422,735.75 2308.1484,736.3125 Q2309.5547,736.875 2310.75,738 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="148.5" x="2337.75" y="756.9229">AppSettings</text><!--MD5=[87a64bb4f7cf8289e3ea958cb604971b]
+class IMessage--><rect codeLine="15" fill="#F8F8FF" height="72" id="IMessage" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="191.25" x="1099.125" y="238.5"/><ellipse cx="1132.875" cy="274.5" fill="#B4A7E5" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M1135.125,267.75 L1135.125,281.25 L1139.625,281.25 L1140.7148,281.25 L1141.875,282.6563 L1141.875,283.5 L1141.875,284.3438 L1140.7148,285.75 L1139.625,285.75 L1126.125,285.75 L1125.0352,285.75 L1123.875,284.3438 L1123.875,283.5 L1123.875,282.6563 L1125.0352,281.25 L1126.125,281.25 L1130.625,281.25 L1130.625,267.75 L1126.125,267.75 L1125.0352,267.75 L1123.875,266.3438 L1123.875,265.5 L1123.875,264.6563 L1125.0352,263.25 L1126.125,263.25 L1139.625,263.25 L1140.7148,263.25 L1141.875,264.6563 L1141.875,265.5 L1141.875,266.3438 L1140.7148,267.75 L1139.625,267.75 L1135.125,267.75 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" font-style="italic" lengthAdjust="spacing" textLength="119.25" x="1164.375" y="285.5479">IMessage</text><!--MD5=[4397ba3f25468a58f081bf0666d83f60]
+class IUser--><rect codeLine="16" fill="#F8F8FF" height="72" id="IUser" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="139.5" x="1460.25" y="238.5"/><ellipse cx="1494" cy="274.5" fill="#B4A7E5" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M1496.25,267.75 L1496.25,281.25 L1500.75,281.25 L1501.8398,281.25 L1503,282.6563 L1503,283.5 L1503,284.3438 L1501.8398,285.75 L1500.75,285.75 L1487.25,285.75 L1486.1602,285.75 L1485,284.3438 L1485,283.5 L1485,282.6563 L1486.1602,281.25 L1487.25,281.25 L1491.75,281.25 L1491.75,267.75 L1487.25,267.75 L1486.1602,267.75 L1485,266.3438 L1485,265.5 L1485,264.6563 L1486.1602,263.25 L1487.25,263.25 L1500.75,263.25 L1501.8398,263.25 L1503,264.6563 L1503,265.5 L1503,266.3438 L1501.8398,267.75 L1500.75,267.75 L1496.25,267.75 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" font-style="italic" lengthAdjust="spacing" textLength="67.5" x="1525.5" y="285.5479">IUser</text><!--MD5=[5d909b6c20725e19f5c6863827561ff4]
+class Constants--><rect codeLine="20" fill="#90EE90" height="214.5234" id="Constants" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="537.75" x="127.125" y="639"/><ellipse cx="322.3125" cy="675" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M326.8125,667.125 Q327.2695,666 327.7969,665.4375 Q328.3242,664.875 328.9219,664.875 Q329.9766,664.875 330.6445,665.5078 Q331.3125,666.1406 331.3125,667.6172 L331.3125,671.1328 Q331.3125,672.6094 330.6797,673.2422 Q330.0469,673.875 329.0625,673.875 Q328.1836,673.875 327.6211,673.4883 Q327.0586,673.1016 326.8125,672.082 Q326.707,671.3789 326.3203,670.9922 Q325.6172,670.2539 324.3516,669.832 Q323.0859,669.375 321.8203,669.375 Q320.2383,669.375 318.9023,670.0078 Q317.6016,670.6406 316.582,672.0469 Q315.5625,673.4531 315.5625,675.3867 L315.5625,677.4609 Q315.5625,679.7813 317.4609,681.3281 Q319.3594,682.875 322.7344,682.875 Q324.7383,682.875 326.1445,682.418 Q326.9531,682.1719 327.8672,681.3633 Q328.4648,680.9063 328.7813,680.7656 Q329.0977,680.625 329.4844,680.625 Q330.2227,680.625 330.75,681.2227 Q331.3125,681.7852 331.3125,682.5938 Q331.3125,683.3672 330.5391,684.2813 Q329.4141,685.6172 327.6211,686.3555 Q325.2656,687.375 322.3828,687.375 Q319.0078,687.375 316.3008,686.0391 Q314.1211,684.9844 312.5742,682.6992 Q311.0625,680.4141 311.0625,677.707 L311.0625,675.2461 Q311.0625,672.4336 312.3984,669.9727 Q313.7695,667.5117 316.125,666.2109 Q318.5156,664.875 321.1875,664.875 Q322.8047,664.875 324.2109,665.4375 Q325.6172,666 326.8125,667.125 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="128.25" x="368.4375" y="686.0479">Constants</text><line style="stroke:#000000;stroke-width:3.375;" x1="129.375" x2="662.625" y1="711" y2="711"/><ellipse cx="151.875" cy="735.75" fill="none" rx="6.75" ry="6.75" style="stroke:#038048;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="474.75" x="172.125" y="745.6926">COMET_CHAT_APP_ID &lt;static&gt; final :String;</text><ellipse cx="151.875" cy="766.8809" fill="none" rx="6.75" ry="6.75" style="stroke:#038048;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="479.25" x="172.125" y="776.8235">COMET_CHAT_API_KEY &lt;static&gt; final:String</text><ellipse cx="151.875" cy="798.0117" fill="none" rx="6.75" ry="6.75" style="stroke:#038048;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="236.25" x="172.125" y="807.9543">region &lt;static&gt; :String</text><ellipse cx="151.875" cy="829.1426" fill="none" rx="6.75" ry="6.75" style="stroke:#038048;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="328.5" x="172.125" y="839.0852">GROUP_ID &lt;static&gt; final:String</text><!--MD5=[f611372ddef4d24b68005e8856e270b5]
+class MessageWrapper--><rect codeLine="28" fill="#90EE90" height="170.2617" id="MessageWrapper" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="553.5" x="834.75" y="660.375"/><ellipse cx="991.6875" cy="696.375" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M996.1875,688.5 Q996.6445,687.375 997.1719,686.8125 Q997.6992,686.25 998.2969,686.25 Q999.3516,686.25 1000.0195,686.8828 Q1000.6875,687.5156 1000.6875,688.9922 L1000.6875,692.5078 Q1000.6875,693.9844 1000.0547,694.6172 Q999.4219,695.25 998.4375,695.25 Q997.5586,695.25 996.9961,694.8633 Q996.4336,694.4766 996.1875,693.457 Q996.082,692.7539 995.6953,692.3672 Q994.9922,691.6289 993.7266,691.207 Q992.4609,690.75 991.1953,690.75 Q989.6133,690.75 988.2773,691.3828 Q986.9766,692.0156 985.957,693.4219 Q984.9375,694.8281 984.9375,696.7617 L984.9375,698.8359 Q984.9375,701.1563 986.8359,702.7031 Q988.7344,704.25 992.1094,704.25 Q994.1133,704.25 995.5195,703.793 Q996.3281,703.5469 997.2422,702.7383 Q997.8398,702.2813 998.1563,702.1406 Q998.4727,702 998.8594,702 Q999.5977,702 1000.125,702.5977 Q1000.6875,703.1602 1000.6875,703.9688 Q1000.6875,704.7422 999.9141,705.6563 Q998.7891,706.9922 996.9961,707.7305 Q994.6406,708.75 991.7578,708.75 Q988.3828,708.75 985.6758,707.4141 Q983.4961,706.3594 981.9492,704.0742 Q980.4375,701.7891 980.4375,699.082 L980.4375,696.6211 Q980.4375,693.8086 981.7734,691.3477 Q983.1445,688.8867 985.5,687.5859 Q987.8906,686.25 990.5625,686.25 Q992.1797,686.25 993.5859,686.8125 Q994.9922,687.375 996.1875,688.5 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="220.5" x="1037.8125" y="707.4229">MessageWrapper</text><line style="stroke:#000000;stroke-width:3.375;" x1="837" x2="1386" y1="732.375" y2="732.375"/><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="852.75" y="750.375"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="299.25" x="879.75" y="767.0676">message:MessageWrapper</text><line style="stroke:#000000;stroke-width:3.375;" x1="837" x2="1386" y1="781.5059" y2="781.5059"/><ellipse cx="859.5" cy="806.2559" fill="#84BE84" rx="6.75" ry="6.75" style="stroke:#038048;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="495" x="879.75" y="816.1985">this(messge:TextMessage):MessageWrapper</text><!--MD5=[31b92affae16d1c8984a047bfb6042f4]
+class UserWrapper--><rect codeLine="33" fill="#90EE90" height="170.2617" id="UserWrapper" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="375.75" x="1558.125" y="660.375"/><ellipse cx="1653.6375" cy="696.375" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M1658.1375,688.5 Q1658.5945,687.375 1659.1219,686.8125 Q1659.6492,686.25 1660.2469,686.25 Q1661.3016,686.25 1661.9695,686.8828 Q1662.6375,687.5156 1662.6375,688.9922 L1662.6375,692.5078 Q1662.6375,693.9844 1662.0047,694.6172 Q1661.3719,695.25 1660.3875,695.25 Q1659.5086,695.25 1658.9461,694.8633 Q1658.3836,694.4766 1658.1375,693.457 Q1658.032,692.7539 1657.6453,692.3672 Q1656.9422,691.6289 1655.6766,691.207 Q1654.4109,690.75 1653.1453,690.75 Q1651.5633,690.75 1650.2273,691.3828 Q1648.9266,692.0156 1647.907,693.4219 Q1646.8875,694.8281 1646.8875,696.7617 L1646.8875,698.8359 Q1646.8875,701.1563 1648.7859,702.7031 Q1650.6844,704.25 1654.0594,704.25 Q1656.0633,704.25 1657.4695,703.793 Q1658.2781,703.5469 1659.1922,702.7383 Q1659.7898,702.2813 1660.1063,702.1406 Q1660.4227,702 1660.8094,702 Q1661.5477,702 1662.075,702.5977 Q1662.6375,703.1602 1662.6375,703.9688 Q1662.6375,704.7422 1661.8641,705.6563 Q1660.7391,706.9922 1658.9461,707.7305 Q1656.5906,708.75 1653.7078,708.75 Q1650.3328,708.75 1647.6258,707.4141 Q1645.4461,706.3594 1643.8992,704.0742 Q1642.3875,701.7891 1642.3875,699.082 L1642.3875,696.6211 Q1642.3875,693.8086 1643.7234,691.3477 Q1645.0945,688.8867 1647.45,687.5859 Q1649.8406,686.25 1652.5125,686.25 Q1654.1297,686.25 1655.5359,686.8125 Q1656.9422,687.375 1658.1375,688.5 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="166.5" x="1698.8625" y="707.4229">UserWrapper</text><line style="stroke:#000000;stroke-width:3.375;" x1="1560.375" x2="1931.625" y1="732.375" y2="732.375"/><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="1576.125" y="750.375"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="202.5" x="1603.125" y="767.0676">user:UserWrapper</text><line style="stroke:#000000;stroke-width:3.375;" x1="1560.375" x2="1931.625" y1="781.5059" y2="781.5059"/><ellipse cx="1582.875" cy="806.2559" fill="#84BE84" rx="6.75" ry="6.75" style="stroke:#038048;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="317.25" x="1603.125" y="816.1985">this(user:User):UserWrapper</text><!--MD5=[97a44516b40ca831feaa43fd542ca3ff]
+class GroupsAdapter--><rect codeLine="39" fill="#90EE90" height="201.3926" id="GroupsAdapter" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="697.5" x="3235.5" y="1143"/><ellipse cx="3481.3125" cy="1179" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M3485.8125,1171.125 Q3486.2695,1170 3486.7969,1169.4375 Q3487.3242,1168.875 3487.9219,1168.875 Q3488.9766,1168.875 3489.6445,1169.5078 Q3490.3125,1170.1406 3490.3125,1171.6172 L3490.3125,1175.1328 Q3490.3125,1176.6094 3489.6797,1177.2422 Q3489.0469,1177.875 3488.0625,1177.875 Q3487.1836,1177.875 3486.6211,1177.4883 Q3486.0586,1177.1016 3485.8125,1176.082 Q3485.707,1175.3789 3485.3203,1174.9922 Q3484.6172,1174.2539 3483.3516,1173.832 Q3482.0859,1173.375 3480.8203,1173.375 Q3479.2383,1173.375 3477.9023,1174.0078 Q3476.6016,1174.6406 3475.582,1176.0469 Q3474.5625,1177.4531 3474.5625,1179.3867 L3474.5625,1181.4609 Q3474.5625,1183.7813 3476.4609,1185.3281 Q3478.3594,1186.875 3481.7344,1186.875 Q3483.7383,1186.875 3485.1445,1186.418 Q3485.9531,1186.1719 3486.8672,1185.3633 Q3487.4648,1184.9063 3487.7813,1184.7656 Q3488.0977,1184.625 3488.4844,1184.625 Q3489.2227,1184.625 3489.75,1185.2227 Q3490.3125,1185.7852 3490.3125,1186.5938 Q3490.3125,1187.3672 3489.5391,1188.2813 Q3488.4141,1189.6172 3486.6211,1190.3555 Q3484.2656,1191.375 3481.3828,1191.375 Q3478.0078,1191.375 3475.3008,1190.0391 Q3473.1211,1188.9844 3471.5742,1186.6992 Q3470.0625,1184.4141 3470.0625,1181.707 L3470.0625,1179.2461 Q3470.0625,1176.4336 3471.3984,1173.9727 Q3472.7695,1171.5117 3475.125,1170.2109 Q3477.5156,1168.875 3480.1875,1168.875 Q3481.8047,1168.875 3483.2109,1169.4375 Q3484.6172,1170 3485.8125,1171.125 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="186.75" x="3527.4375" y="1190.0479">GroupsAdapter</text><line style="stroke:#000000;stroke-width:3.375;" x1="3237.75" x2="3930.75" y1="1215" y2="1215"/><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3253.5" y="1233"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="267.75" x="3280.5" y="1249.6926">final List&lt;Group&gt; groups</text><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3253.5" y="1264.1309"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="222.75" x="3280.5" y="1280.8235">final Context context</text><line style="stroke:#000000;stroke-width:3.375;" x1="3237.75" x2="3930.75" y1="1295.2617" y2="1295.2617"/><ellipse cx="3260.25" cy="1320.0117" fill="#84BE84" rx="6.75" ry="6.75" style="stroke:#038048;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="639" x="3280.5" y="1329.9543">this(groups:List&lt;Group&gt;, context:Context): GroupsAdapter</text><!--MD5=[5db00888549904919e3a09c35d77129e]
+class MainActivity--><rect codeLine="47" fill="#90EE90" height="263.6543" id="MainActivity" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="526.5" x="2661.75" y="614.25"/><ellipse cx="2846.8125" cy="650.25" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M2851.3125,642.375 Q2851.7695,641.25 2852.2969,640.6875 Q2852.8242,640.125 2853.4219,640.125 Q2854.4766,640.125 2855.1445,640.7578 Q2855.8125,641.3906 2855.8125,642.8672 L2855.8125,646.3828 Q2855.8125,647.8594 2855.1797,648.4922 Q2854.5469,649.125 2853.5625,649.125 Q2852.6836,649.125 2852.1211,648.7383 Q2851.5586,648.3516 2851.3125,647.332 Q2851.207,646.6289 2850.8203,646.2422 Q2850.1172,645.5039 2848.8516,645.082 Q2847.5859,644.625 2846.3203,644.625 Q2844.7383,644.625 2843.4023,645.2578 Q2842.1016,645.8906 2841.082,647.2969 Q2840.0625,648.7031 2840.0625,650.6367 L2840.0625,652.7109 Q2840.0625,655.0313 2841.9609,656.5781 Q2843.8594,658.125 2847.2344,658.125 Q2849.2383,658.125 2850.6445,657.668 Q2851.4531,657.4219 2852.3672,656.6133 Q2852.9648,656.1563 2853.2813,656.0156 Q2853.5977,655.875 2853.9844,655.875 Q2854.7227,655.875 2855.25,656.4727 Q2855.8125,657.0352 2855.8125,657.8438 Q2855.8125,658.6172 2855.0391,659.5313 Q2853.9141,660.8672 2852.1211,661.6055 Q2849.7656,662.625 2846.8828,662.625 Q2843.5078,662.625 2840.8008,661.2891 Q2838.6211,660.2344 2837.0742,657.9492 Q2835.5625,655.6641 2835.5625,652.957 L2835.5625,650.4961 Q2835.5625,647.6836 2836.8984,645.2227 Q2838.2695,642.7617 2840.625,641.4609 Q2843.0156,640.125 2845.6875,640.125 Q2847.3047,640.125 2848.7109,640.6875 Q2850.1172,641.25 2851.3125,642.375 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="137.25" x="2892.9375" y="661.2979">MainActivity</text><line style="stroke:#000000;stroke-width:3.375;" x1="2664" x2="3186" y1="686.25" y2="686.25"/><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="2679.75" y="704.25"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="285.75" x="2706.75" y="720.9426">usernameEditText:EditText</text><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="2679.75" y="735.3809"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="195.75" x="2706.75" y="752.0735">loginButton:Button</text><line style="stroke:#000000;stroke-width:3.375;" x1="2664" x2="3186" y1="766.5117" y2="766.5117"/><rect fill="#F24D5C" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="2679.75" y="784.5117"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="222.75" x="2706.75" y="801.2043">initCometChat() :void</text><rect fill="#F24D5C" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="2679.75" y="815.6426"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="468" x="2706.75" y="832.3352">loginWithCometChat(username:String) :void</text><rect fill="#F24D5C" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="2679.75" y="846.7734"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="315" x="2706.75" y="863.4661">redirectToNextScreen() :void</text><!--MD5=[768f47d9686bf18df93e30c453cda29a]
+class GroupListActivity--><rect codeLine="54" fill="#90EE90" height="201.3926" id="GroupListActivity" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="452.25" x="3358.125" y="644.625"/><ellipse cx="3474.5625" cy="680.625" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M3479.0625,672.75 Q3479.5195,671.625 3480.0469,671.0625 Q3480.5742,670.5 3481.1719,670.5 Q3482.2266,670.5 3482.8945,671.1328 Q3483.5625,671.7656 3483.5625,673.2422 L3483.5625,676.7578 Q3483.5625,678.2344 3482.9297,678.8672 Q3482.2969,679.5 3481.3125,679.5 Q3480.4336,679.5 3479.8711,679.1133 Q3479.3086,678.7266 3479.0625,677.707 Q3478.957,677.0039 3478.5703,676.6172 Q3477.8672,675.8789 3476.6016,675.457 Q3475.3359,675 3474.0703,675 Q3472.4883,675 3471.1523,675.6328 Q3469.8516,676.2656 3468.832,677.6719 Q3467.8125,679.0781 3467.8125,681.0117 L3467.8125,683.0859 Q3467.8125,685.4063 3469.7109,686.9531 Q3471.6094,688.5 3474.9844,688.5 Q3476.9883,688.5 3478.3945,688.043 Q3479.2031,687.7969 3480.1172,686.9883 Q3480.7148,686.5313 3481.0313,686.3906 Q3481.3477,686.25 3481.7344,686.25 Q3482.4727,686.25 3483,686.8477 Q3483.5625,687.4102 3483.5625,688.2188 Q3483.5625,688.9922 3482.7891,689.9063 Q3481.6641,691.2422 3479.8711,691.9805 Q3477.5156,693 3474.6328,693 Q3471.2578,693 3468.5508,691.6641 Q3466.3711,690.6094 3464.8242,688.3242 Q3463.3125,686.0391 3463.3125,683.332 L3463.3125,680.8711 Q3463.3125,678.0586 3464.6484,675.5977 Q3466.0195,673.1367 3468.375,671.8359 Q3470.7656,670.5 3473.4375,670.5 Q3475.0547,670.5 3476.4609,671.0625 Q3477.8672,671.625 3479.0625,672.75 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="200.25" x="3520.6875" y="691.6729">GroupListActivity</text><line style="stroke:#000000;stroke-width:3.375;" x1="3360.375" x2="3808.125" y1="716.625" y2="716.625"/><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3376.125" y="734.625"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="393.75" x="3403.125" y="751.3176">groupsRecyclerView:RecyclerView</text><line style="stroke:#000000;stroke-width:3.375;" x1="3360.375" x2="3808.125" y1="765.7559" y2="765.7559"/><rect fill="#F24D5C" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3376.125" y="783.7559"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="184.5" x="3403.125" y="800.4485">getGroups():void</text><rect fill="#F24D5C" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3376.125" y="814.8867"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="182.25" x="3403.125" y="831.5793">updateList():void</text><!--MD5=[d1b2bcfdbe36390ae2a5ca4be9f3aa81]
+class GroupChatActivity--><rect codeLine="59" fill="#90EE90" height="294.7852" id="GroupChatActivity" rx="11.25" ry="11.25" style="stroke:#000000;stroke-width:3.375;" width="607.5" x="3980.25" y="598.5"/><ellipse cx="4167.5625" cy="634.5" fill="#6495ED" rx="24.75" ry="24.75" style="stroke:#000000;stroke-width:2.25;"/><path d="M4172.0625,626.625 Q4172.5195,625.5 4173.0469,624.9375 Q4173.5742,624.375 4174.1719,624.375 Q4175.2266,624.375 4175.8945,625.0078 Q4176.5625,625.6406 4176.5625,627.1172 L4176.5625,630.6328 Q4176.5625,632.1094 4175.9297,632.7422 Q4175.2969,633.375 4174.3125,633.375 Q4173.4336,633.375 4172.8711,632.9883 Q4172.3086,632.6016 4172.0625,631.582 Q4171.957,630.8789 4171.5703,630.4922 Q4170.8672,629.7539 4169.6016,629.332 Q4168.3359,628.875 4167.0703,628.875 Q4165.4883,628.875 4164.1523,629.5078 Q4162.8516,630.1406 4161.832,631.5469 Q4160.8125,632.9531 4160.8125,634.8867 L4160.8125,636.9609 Q4160.8125,639.2813 4162.7109,640.8281 Q4164.6094,642.375 4167.9844,642.375 Q4169.9883,642.375 4171.3945,641.918 Q4172.2031,641.6719 4173.1172,640.8633 Q4173.7148,640.4063 4174.0313,640.2656 Q4174.3477,640.125 4174.7344,640.125 Q4175.4727,640.125 4176,640.7227 Q4176.5625,641.2852 4176.5625,642.0938 Q4176.5625,642.8672 4175.7891,643.7813 Q4174.6641,645.1172 4172.8711,645.8555 Q4170.5156,646.875 4167.6328,646.875 Q4164.2578,646.875 4161.5508,645.5391 Q4159.3711,644.4844 4157.8242,642.1992 Q4156.3125,639.9141 4156.3125,637.207 L4156.3125,634.7461 Q4156.3125,631.9336 4157.6484,629.4727 Q4159.0195,627.0117 4161.375,625.7109 Q4163.7656,624.375 4166.4375,624.375 Q4168.0547,624.375 4169.4609,624.9375 Q4170.8672,625.5 4172.0625,626.625 Z " fill="#000000"/><text fill="#6495ED" font-family="sans-serif" font-size="27" lengthAdjust="spacing" textLength="213.75" x="4213.6875" y="645.5479">GroupChatActivity</text><line style="stroke:#000000;stroke-width:3.375;" x1="3982.5" x2="4585.5" y1="670.5" y2="670.5"/><polygon fill="none" points="4005,684,4014,693,4005,702,3996,693" style="stroke:#B38D22;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="549" x="4025.25" y="705.1926">adapter:MessagesListAdapter&lt;MessageWrapper&gt;</text><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3998.25" y="719.6309"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="315" x="4025.25" y="736.3235">messageInput: MessageInput</text><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3998.25" y="750.7617"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="315" x="4025.25" y="767.4543">messagesList: MessagesList</text><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3998.25" y="781.8926"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="157.5" x="4025.25" y="798.5852">groupId: String</text><rect fill="none" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3998.25" y="813.0234"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="168.75" x="4025.25" y="829.7161">listenerID:String</text><line style="stroke:#000000;stroke-width:3.375;" x1="3982.5" x2="4585.5" y1="844.1543" y2="844.1543"/><rect fill="#F24D5C" height="13.5" style="stroke:#C82930;stroke-width:2.25;" width="13.5" x="3998.25" y="862.1543"/><text fill="#000000" font-family="sans-serif" font-size="24.75" lengthAdjust="spacing" textLength="310.5" x="4025.25" y="878.8469">getPreviousMessages():void</text><!--MD5=[43c3e236a55311891291a7ee2f588110]
+reverse link Serializable to AppSettings--><path d="M2382.75,356.5125 C2382.75,460.125 2382.75,636.3675 2382.75,709.875 " fill="none" id="Serializable-backto-AppSettings" style="stroke:#808080;stroke-width:2.25;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="2367,356.085,2382.75,311.085,2398.5,356.085,2367,356.085" style="stroke:#808080;stroke-width:2.25;"/><!--MD5=[632e90394bcdf36d55c73bb27da547f0]
+reverse link IMessage to MessageWrapper--><path d="M1180.7325,355.3875 C1165.68,439.785 1141.875,573.3 1126.4625,659.6775 " fill="none" id="IMessage-backto-MessageWrapper" style="stroke:#808080;stroke-width:2.25;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1165.23,352.62,1188.63,311.085,1196.235,358.155,1165.23,352.62" style="stroke:#808080;stroke-width:2.25;"/><!--MD5=[a2242b274e8e791eed3b97c0869e5aab]
+reverse link IUser to UserWrapper--><path d="M1565.01,352.44 C1603.98,436.635 1666.7325,572.2875 1707.165,659.6775 " fill="none" id="IUser-backto-UserWrapper" style="stroke:#808080;stroke-width:2.25;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1550.475,358.5375,1545.885,311.085,1579.0725,345.3075,1550.475,358.5375" style="stroke:#808080;stroke-width:2.25;"/><!--MD5=[ed15e4b4378ef2b54f6eaba16beaf40a]
+reverse link AppCompatActivity to MainActivity--><path d="M3485.9925,333 C3395.025,385.065 3273.75,454.5 3273.75,454.5 C3273.75,454.5 3174.5925,536.6925 3082.0275,613.44 " fill="none" id="AppCompatActivity-backto-MainActivity" style="stroke:#808080;stroke-width:2.25;"/><polygon fill="none" points="3478.23,319.2975,3525.12,310.6125,3493.89,346.635,3478.23,319.2975" style="stroke:#808080;stroke-width:2.25;"/><!--MD5=[522100d660bd17cc6d1cc7cdf3155df1]
+reverse link AppCompatActivity to GroupListActivity--><path d="M3584.25,356.265 C3584.25,435.69 3584.25,558.0225 3584.25,643.905 " fill="none" id="AppCompatActivity-backto-GroupListActivity" style="stroke:#808080;stroke-width:2.25;"/><polygon fill="none" points="3568.5,356.085,3584.25,311.085,3600,356.085,3568.5,356.085" style="stroke:#808080;stroke-width:2.25;"/><!--MD5=[0ba6a69d24a41d1f909dd2a5c57f869e]
+reverse link AppCompatActivity to GroupChatActivity--><path d="M3682.5075,333 C3773.475,385.065 3894.75,454.5 3894.75,454.5 C3894.75,454.5 3991.2975,526.2075 4088.2275,598.2075 " fill="none" id="AppCompatActivity-backto-GroupChatActivity" style="stroke:#808080;stroke-width:2.25;"/><polygon fill="none" points="3674.61,346.635,3643.38,310.6125,3690.27,319.2975,3674.61,346.635" style="stroke:#808080;stroke-width:2.25;"/><!--MD5=[f5cf3dfdb94fcc9494231bb5215d6bfd]
+link Constants to com.cometchat.pro--><path codeLine="70" d="M541.935,638.37 C649.17,559.3725 776.25,465.75 776.25,465.75 C776.25,465.75 1993.5,465.75 1993.5,465.75 C1993.5,465.75 2019.3694,531.4725 2046.0459,599.2481 C2059.3842,633.1359 2072.9243,667.537 2083.5334,694.4927 C2084.1965,696.1775 2084.8481,697.8331 2085.4875,699.4577 " fill="none" id="Constants-to-com.cometchat.pro" style="stroke:#808080;stroke-width:2.25;"/><polygon fill="#808080" points="2085.4875,699.4577,2086.4461,677.3185,2081.3674,688.9893,2069.6966,683.9107,2085.4875,699.4577" style="stroke:#808080;stroke-width:2.25;"/><text fill="#000000" font-family="sans-serif" font-size="29.25" lengthAdjust="spacing" textLength="63" x="1437.75" y="428.614">uses</text><!--MD5=[099d53738f6d2f8225a6121edd447b3e]
+link GroupListActivity to GroupsAdapter--><path codeLine="71" d="M3584.25,847.485 C3584.25,933.39 3584.25,1056.9375 3584.25,1142.82 " fill="none" id="GroupListActivity-GroupsAdapter" style="stroke:#808080;stroke-width:2.25;"/><!--MD5=[f7f7477cfba6e82bbac00c6fa203fef8]
+@startuml classdiagram
+!include style/commons.style
+
+package  AffinityNow{
+
+    package androidx.appcompat.app #yellow{
+         class AppCompatActivity {}
+    }
+    package java.io #yellow{
+        interface Serializable {}
+    }
+     package com.cometchat.pro #pink{
+        class AppSettings implements Serializable {}
+    }
+    package chatkit #pink {
+        interface IMessage {}
+        interface IUser {}
+    }
+
+    package utils  {
+        class Constants #LightGreen{
+        +COMET_CHAT_APP_ID <static> final :String;
+        +COMET_CHAT_API_KEY <static> final:String
+        +region <static> :String
+        +GROUP_ID <static> final:String
+        }
+    }
+    package models{
+        class MessageWrapper #LightGreen implements IMessage {
+            -message:MessageWrapper
+            +this(messge:TextMessage):MessageWrapper
+        }
+
+        class UserWrapper #LightGreen implements IUser{
+            -user:UserWrapper
+            +this(user:User):UserWrapper
+        }
+    }
+    package adapters  {
+        class GroupsAdapter #LightGreen{
+        - final List<Group> groups
+        - final Context context
+        + this(groups:List<Group>, context:Context): GroupsAdapter
+        }
+    }
+
+    package main {
+        class MainActivity #LightGreen extends AppCompatActivity{
+            -usernameEditText:EditText
+            -loginButton:Button
+            -initCometChat() :void
+            -loginWithCometChat(username:String) :void
+            -redirectToNextScreen() :void
+        }
+        class GroupListActivity #LightGreen extends AppCompatActivity{
+            -groupsRecyclerView:RecyclerView
+            -getGroups():void
+            -updateList():void
+        }
+        class GroupChatActivity #LightGreen extends AppCompatActivity {
+            #adapter:MessagesListAdapter<MessageWrapper>
+            -messageInput: MessageInput
+            -messagesList: MessagesList
+            -groupId: String
+            -listenerID:String
+            -getPreviousMessages():void
+        }
+
+    }
+
+    Constants ->com.cometchat.pro : uses
+    GroupListActivity- -GroupsAdapter
+}
+
+@enduml
+
+@startuml classdiagram
+
+skinparam nodesep 75
+skinparam ranksep 75
+hide empty members
+
+skinparam noteFontSize 10
+skinparam noteFontName Courier
+
+skinparam monochrome  false
+skinparam shadowing   false
+skinparam roundcorner 10
+skinparam linetype polyline
+
+skinparam class {
+    BackgroundColor GhostWhite
+    ArrowColor      Gray
+    BorderColor     Black
+    fontColor       CornFlowerBlue
+}
+
+skinparam state {
+    BackgroundColor GhostWhite
+    ArrowColor      Gray
+    BorderColor     Black
+    fontColor       CornFlowerBlue
+}
+
+skinparam object {
+    BackgroundColor GhostWhite
+    ArrowColor      Gray
+    BorderColor     Black
+}
+
+skinparam package<<Layout>> {
+  borderColor         Transparent
+  backgroundColor     Transparent
+  fontColor           Transparent
+  stereotypeFontColor Transparent
+}
+
+skinparam sequence {
+	ArrowColor                  Gray
+  LifeLineBorderColor         CornFlowerBlue
+  LifeLineBackgroundColor     GhostWhite
+	ParticipantBorderColor      CornFlowerBlue
+	ParticipantBackgroundColor  GhostWhite
+  ActorBorderColor            CornFlowerBlue
+	ActorBackgroundColor        GhostWhite
+  BoxBorderColor         CornFlowerBlue
+  BoxBackgroundColor         GhostWhite
+}
+
+skinparam stereotypeCBackgroundColor CornflowerBlue
+
+hide footbox
+hide empty members
+
+skinparam note {
+ BackgroundColor GhostWhite
+ BorderColor         CornFlowerBlue
+}
+
+package  AffinityNow{
+
+    package androidx.appcompat.app #yellow{
+         class AppCompatActivity {}
+    }
+    package java.io #yellow{
+        interface Serializable {}
+    }
+     package com.cometchat.pro #pink{
+        class AppSettings implements Serializable {}
+    }
+    package chatkit #pink {
+        interface IMessage {}
+        interface IUser {}
+    }
+
+    package utils  {
+        class Constants #LightGreen{
+        +COMET_CHAT_APP_ID <static> final :String;
+        +COMET_CHAT_API_KEY <static> final:String
+        +region <static> :String
+        +GROUP_ID <static> final:String
+        }
+    }
+    package models{
+        class MessageWrapper #LightGreen implements IMessage {
+            -message:MessageWrapper
+            +this(messge:TextMessage):MessageWrapper
+        }
+
+        class UserWrapper #LightGreen implements IUser{
+            -user:UserWrapper
+            +this(user:User):UserWrapper
+        }
+    }
+    package adapters  {
+        class GroupsAdapter #LightGreen{
+        - final List<Group> groups
+        - final Context context
+        + this(groups:List<Group>, context:Context): GroupsAdapter
+        }
+    }
+
+    package main {
+        class MainActivity #LightGreen extends AppCompatActivity{
+            -usernameEditText:EditText
+            -loginButton:Button
+            -initCometChat() :void
+            -loginWithCometChat(username:String) :void
+            -redirectToNextScreen() :void
+        }
+        class GroupListActivity #LightGreen extends AppCompatActivity{
+            -groupsRecyclerView:RecyclerView
+            -getGroups():void
+            -updateList():void
+        }
+        class GroupChatActivity #LightGreen extends AppCompatActivity {
+            #adapter:MessagesListAdapter<MessageWrapper>
+            -messageInput: MessageInput
+            -messagesList: MessagesList
+            -groupId: String
+            -listenerID:String
+            -getPreviousMessages():void
+        }
+
+    }
+
+    Constants ->com.cometchat.pro : uses
+    GroupListActivity- -GroupsAdapter
+}
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 11:25:05 CET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>
