@@ -8,9 +8,8 @@ Written in JAVA, CometChat and Firebase services.
 
 ### Screenshots
 
-...coming soon
-Chat :
-![login](docs/pic/login_username.png)
+Chat :  
+![login](docs/pic/login_username.png)  
 ![chatGroup](docs/pic/group_chat.png)
 
 ### Features
