@@ -1,0 +1,75 @@
+@startuml classdiagram
+!include style/commons.style
+
+package  AffinityNow{
+
+    package androidx.appcompat.app #yellow{
+         class AppCompatActivity {}
+    }
+    package java.io #yellow{
+        interface Serializable {}
+    }
+     package com.cometchat.pro #pink{
+        class AppSettings implements Serializable {}
+    }
+    package chatkit #pink {
+        interface IMessage {}
+        interface IUser {}
+    }
+
+    package utils  {
+        class Constants #LightGreen{
+        +COMET_CHAT_APP_ID <static> final :String;
+        +COMET_CHAT_API_KEY <static> final:String
+        +region <static> :String
+        +GROUP_ID <static> final:String
+        }
+    }
+    package models{
+        class MessageWrapper #LightGreen implements IMessage {
+            -message:MessageWrapper
+            +this(messge:TextMessage):MessageWrapper
+        }
+
+        class UserWrapper #LightGreen implements IUser{
+            -user:UserWrapper
+            +this(user:User):UserWrapper
+        }
+    }
+    package adapters  {
+        class GroupsAdapter #LightGreen{
+        - final List<Group> groups
+        - final Context context
+        + this(groups:List<Group>, context:Context): GroupsAdapter
+        }
+    }
+
+    package main {
+        class MainActivity #LightGreen extends AppCompatActivity{
+            -usernameEditText:EditText
+            -loginButton:Button
+            -initCometChat() :void
+            -loginWithCometChat(username:String) :void
+            -redirectToNextScreen() :void
+        }
+        class GroupListActivity #LightGreen extends AppCompatActivity{
+            -groupsRecyclerView:RecyclerView
+            -getGroups():void
+            -updateList():void
+        }
+        class GroupChatActivity #LightGreen extends AppCompatActivity {
+            #adapter:MessagesListAdapter<MessageWrapper>
+            -messageInput: MessageInput
+            -messagesList: MessagesList
+            -groupId: String
+            -listenerID:String
+            -getPreviousMessages():void
+        }
+
+    }
+
+    Constants ->com.cometchat.pro : uses
+    GroupListActivity--GroupsAdapter
+}
+
+@enduml

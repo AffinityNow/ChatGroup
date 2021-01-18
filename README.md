@@ -3,24 +3,29 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 AffinityNow is a free communication app inspired by messaging & social media apps.
-Written in JAVA, Firebase services.
+Written in JAVA, CometChat and Firebase services.
 
 
 ### Screenshots
 
-...coming soon
+Chat :  
+![login](docs/pic/login_username.png)  
+![chatGroup](docs/pic/group_chat.png)
 
 ### Features
 
    * Authentication
+   * Send text, graphic, messages
+   * Check message read/delivery status
+
+   ......coming soon
    * Storage
    * Create user profile (Username)
    * Search users by Username
-   * Send text, graphic, audio messages
+   * Send audio messages
    * Take a picture from camera or gallery
    * Display graphics in full screen view, zoom in/out, drag and rotate
    * Check user online status
-   * Check message read/delivery status
    * Get notifications about new messages
 
 ### Download for Android Software
