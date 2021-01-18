@@ -32,10 +32,21 @@ public class MatchActivity extends AppCompatActivity {
         User u2 = new User("Chakir");
         User u3 = new User("Avi");
         User u4 = new User("Jean-Michel");
+        User u5 = new User("Titi");
+        User u6 = new User("Tata");
+        User u7 = new User("Tutu");
+        User u8 = new User("Jean");
+        User u9 = new User("Michel");
+        User u10 = new User("Tyty");
 
         users.add(u2);
         users.add(u3);
-        users.add(u4);
+        users.add(u5);
+        users.add(u6);
+        users.add(u7);
+        users.add(u8);
+        users.add(u9);
+        users.add(u10);
 
         Topic t1 = new Topic("Tennis");
         Topic t2 = new Topic("FOOT");
@@ -66,6 +77,12 @@ public class MatchActivity extends AppCompatActivity {
         u2.setTopics(topics2);
         u3.setTopics(topics3);
         u4.setTopics(topics4);
+        u5.setTopics(topics1);
+        u6.setTopics(topics2);
+        u7.setTopics(topics3);
+        u8.setTopics(topics4);
+        u9.setTopics(topics4);
+        u10.setTopics(topics4);
 
         Matching matching = new Matching();
 
