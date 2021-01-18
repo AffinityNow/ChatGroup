@@ -11,6 +11,7 @@ public class Matching {
         for (Topic topic: user1.getTopics().values()) {
             for (Topic topic2: user2.getTopics().values()) {
                 if (topic.equals(topic2))
+                    System.out.println(String.format("The matching topic : %s", topic));
                     return true;
             }
         }
